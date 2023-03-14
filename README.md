@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif)](https://amritsahu.io)
+[![MasterHead](https://4.bp.blogspot.com/-6vGvy4vCcvE/Xdcwnaf7XzI/AAAAAAAANZM/Io2mm8SXjmUVCo60byOn-XpLUpn54nizACLcBGAsYHQ/s1600/image1.gif)](https://amritsahu.io)
 
 <h1 align="center">Hi 👋, I'm Amrit Sahu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
