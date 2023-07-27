@@ -1,4 +1,4 @@
-[![MasterHead](https://simplecoding.dev/assets/devops.gif)](https://rishavchanda.io)
+[![MasterHead](https://simplecoding.dev/assets/devops.gif)](https://amritsahu.io)
 <h1 align="center">Hi 👋, I'm Amrit Sahu</h1>
 <h3 align="center">A passionate DevOps engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif">
