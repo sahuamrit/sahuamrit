@@ -1,14 +1,15 @@
 [![MasterHead](https://www.professional-devops.com/images/blogBanner.gif)](https://amritsahu.io)
 <h1 align="center">Hi 👋, I'm Amrit Sahu</h1>
 <h3 align="center">A passionate DevOps engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif">
+<img align="right" alt="Coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahuamrit&label=Profile%20views&color=0e75b6&style=flat" alt="sahuamrit" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@amritsa40033124" target="blank"><img src="https://img.shields.io/twitter/follow/@amritsa40033124?logo=twitter&style=for-the-badge" alt="@amritsa40033124" /></a> </p>
 
-- 📫 How to reach me **amrit23122001@gmail.com 8627870511**
+- 📫 How to reach me **amrit23122001@gmail.com**
+- **8627870511**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
