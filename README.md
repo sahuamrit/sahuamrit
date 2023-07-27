@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Amrit Sahu</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src=[https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif](https://simplecoding.dev/assets/devops.gif)>
+<img align="right" alt="Coding" width="400" src=[[https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif](https://simplecoding.dev/assets/devops.gif)](https://simplecoding.dev/assets/devops.gif)>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahuamrit&label=Profile%20views&color=0e75b6&style=flat" alt="sahuamrit" /> </p>
 
