@@ -1,4 +1,4 @@
-[![MasterHead][(https://simplecoding.dev/assets/devops.gif))](https://amritsahu.io)
+[![MasterHead] [(https://simplecoding.dev/assets/devops.gif))] (https://amritsahu.io)
 
 <h1 align="center">Hi 👋, I'm Amrit Sahu</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
