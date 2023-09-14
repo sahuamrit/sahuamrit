@@ -8,7 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/@amritsa40033124" target="blank"><img src="https://img.shields.io/twitter/follow/@amritsa40033124?logo=twitter&style=for-the-badge" alt="@amritsa40033124" /></a> </p>
 
-- 📫 How to reach me **amrit23122001@gmail.com**
+- 📫 How to reach me :-
+-  **amrit23122001@gmail.com**
 - **8627870511**
 
 <h3 align="left">Connect with me:</h3>
