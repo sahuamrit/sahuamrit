@@ -1,6 +1,6 @@
 [![MasterHead](https://www.professional-devops.com/images/blogBanner.gif)](https://amritsahu.io)
 <h1 align="center">Hi 👋, I'm Amrit Sahu</h1>
-<h3 align="center">A passionate DevOps engineer from India</h3>
+<h3 align="center">A passionate Cloud & Networking engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
 
