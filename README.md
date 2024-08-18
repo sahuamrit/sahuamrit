@@ -10,7 +10,7 @@
 
 - 📫 How to reach me :-
 -  **amrit23122001@gmail.com**
-- **8627870511**
+- **6303448292**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
